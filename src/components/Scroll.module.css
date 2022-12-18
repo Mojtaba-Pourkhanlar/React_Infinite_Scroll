@@ -1,0 +1,8 @@
+.container {
+  text-align: center;
+  overflow-y: auto;
+  height: 700px;
+}
+.tableContainer {
+  width: 100%;
+}

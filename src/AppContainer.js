@@ -1,9 +1,12 @@
-import React from 'react'
+import React from "react";
+import Scroll from "./components/Scroll";
 
 const AppContainer = () => {
   return (
-    <div>AppContainer</div>
-  )
-}
+    <div>
+      <Scroll />
+    </div>
+  );
+};
 
-export default AppContainer
+export default AppContainer;
